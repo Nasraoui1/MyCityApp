@@ -1,0 +1,50 @@
+<resources>
+    <!-- Strings for categories screen -->
+    <string name="app_name">MyCityGuide</string>
+    <string name="category_screen_title">Explore</string>
+    <string name="coffee_shops_category">Coffee Shops</string>
+    <string name="restaurants_category">Restaurants</string>
+    <string name="recommendation_screen_title">Explore</string>
+    <string name="detail_screen_title">Details</string>
+
+
+
+    <!-- Strings for cards on recommendations screens -->
+    <string name="coffee_shop_1_name">Coffee Shop 1</string>
+    <string name="coffee_shop_2_name">Coffee Shop 2</string>
+    <string name="restaurant_1_name">Restaurant 1</string>
+    <string name="restaurant_2_name">Restaurant 2</string>
+
+    <!-- Strings for recommendation details screen -->
+    <string name="recommendation_detail_text">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Praesent ultrices congue rutrum. Phasellus elementum ipsum ac convallis aliquam. Suspendisse
+        eleifend eros a enim faucibus mollis. Nunc placerat, est vitae vestibulum blandit, dolor
+        diam fringilla tellus, eu euismod mauris neque at neque.
+        \n\n
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Praesent ultrices congue rutrum. Phasellus elementum ipsum ac convallis aliquam. Suspendisse
+        eleifend eros a enim faucibus mollis. Nunc placerat, est vitae vestibulum blandit, dolor
+        diam fringilla tellus, eu euismod mauris neque at neque.
+        \n\n
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Praesent ultrices congue rutrum. Phasellus elementum ipsum ac convallis aliquam. Suspendisse
+        eleifend eros a enim faucibus mollis. Nunc placerat, est vitae vestibulum blandit, dolor
+        diam fringilla tellus, eu euismod mauris neque at neque.
+        \n\n
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Praesent ultrices congue rutrum. Phasellus elementum ipsum ac convallis aliquam. Suspendisse
+        eleifend eros a enim faucibus mollis. Nunc placerat, est vitae vestibulum blandit, dolor
+        diam fringilla tellus, eu euismod mauris neque at neque.
+        \n\n
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Praesent ultrices congue rutrum. Phasellus elementum ipsum ac convallis aliquam. Suspendisse
+        eleifend eros a enim faucibus mollis. Nunc placerat, est vitae vestibulum blandit, dolor
+        diam fringilla tellus, eu euismod mauris neque at neque.
+    </string>
+
+    <string name="back_button">Back</string>
+
+
+
+</resources>
